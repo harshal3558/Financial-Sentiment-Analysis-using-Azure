@@ -1,6 +1,8 @@
 Flask
 numpy
 pandas
+nltk
+wordcloud
 python-dotenv
 mysql-connector-python
 pymysql
